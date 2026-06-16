@@ -23,3 +23,4 @@ public class LargestElement {
         System.out.println("Largest element: " + findLargestElement(arr2)); 
     }
 }
+# Day 2

@@ -24,3 +24,4 @@ public class RemoveElement {
         System.out.println("Remaining count: " + result2); 
     }
 }
+# Day 2
