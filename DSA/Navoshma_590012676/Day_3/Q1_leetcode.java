@@ -17,3 +17,4 @@ class Solution {
         return result;
     }
 }
+# Day 3 solution

@@ -66,3 +66,4 @@ public class Main {
         System.out.println(last - first + 1);
     }
 }
+# Day 3 solution
