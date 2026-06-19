@@ -27,3 +27,4 @@ class Solution {
         return map.isEmpty();
     }
 }
+#Day 5 solution
